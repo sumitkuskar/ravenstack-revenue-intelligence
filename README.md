@@ -164,8 +164,7 @@ Active ARR: **$121.92M** · MRR: **$10.16M** · ARPU: **$20.3K**
 
 ## Author
 
-**Sumit Kuskar** — Data Analyst  
-MSc Consumer Analytics & Marketing Strategy · University of Leeds  
+**Sumit Kuskar** — Data Analyst   
 [LinkedIn](https://linkedin.com/in/sumitkuskar)
 
 ---
